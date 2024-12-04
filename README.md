@@ -23,7 +23,7 @@ It is a core java game,based on Indian television show having best animation as 
 
 
 # How to Run KBC- kaun Banega Crorepati
-First Install netbeans and mysql (ENTER MYSQL PASSWORD:-12345) on  your computer
+First Install netbeans and mysql on  your computer
 
 
 
