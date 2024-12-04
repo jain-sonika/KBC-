@@ -8,7 +8,7 @@ It is a core java game,based on Indian television show having best animation as 
 
 
 
-This project is created by Rox Studio developer Just for Fun.
+
 
 
 # Features
